@@ -1,4 +1,2 @@
 sample.txt created
 New line inserted
-Added Sample Line 1
-Added Sample Line 2
